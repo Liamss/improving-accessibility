@@ -49,6 +49,7 @@ Changes Made
 Other
 
         - Header Link Resolved
+        - Updated year or development in Footer
 
 
 ## Installation
