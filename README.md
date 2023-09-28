@@ -22,7 +22,7 @@ Changes Made
 * Semantic HTML elements can be found throughout the source code
 
         - Header added with Nav 
-        - Sections added for each business offering 
+        - Articles added for each business offering 
         - Aside added (after some issues with it sliding down)
         - Footer Added 
 
@@ -50,6 +50,11 @@ Other
 
         - Header Link Resolved
         - Updated year or development in Footer
+
+
+CSS
+
+        - Nothing as of 28/09 at 13.37pm
 
 
 ## Installation
