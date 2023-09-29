@@ -57,7 +57,7 @@ CSS
         - Creation of "productoffering" class 
         - Creation of Benefit class for IMG and <P>
         - Nothing as of 28/09 at 13.37pm
-        - Removed unnecessary "all" aka asterike css 
+        - Removed unnecessary "all" aka asterisks 
         - 
 
 
