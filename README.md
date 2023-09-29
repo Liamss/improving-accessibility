@@ -33,7 +33,6 @@ Changes Made
 
 * Image and icon elements contain accessible `alt` attributes
 
-
         - Added for PNGs and JPGs. 
         - Explored adding for Header CSS image, entered warren hole of decorative vs. informational images. Decided it's decorative, but could be moved to HTML
 
