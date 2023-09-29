@@ -53,6 +53,10 @@ Other
 
 CSS
 
+        - H2, H3, IMG consolidated 
+        - CreatION of "productoffering" class 
+        - Creation of Benefit class for IMG and <P>
+
         - Nothing as of 28/09 at 13.37pm
 
 
