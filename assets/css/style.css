@@ -3,21 +3,6 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
-
-
-
-/* asterisk aka CSS Universal selector is used to select all items in a html file  */
-* {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-}
-
-body {
-    background-color: #d9dcd6;
-}
-
-
 }
 
 .header h1 {
@@ -37,13 +22,30 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
-    list-style-type: none;
-}
-
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
+}
+
+/* hero in this instance is the hero image  */
+
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/*  */
+
+
+body {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: #d9dcd6;
 }
 
 /* a refers to any link  */
@@ -59,16 +61,6 @@ p {
     font-size: 16px;
 }
 
-/* hero in this instance is the hero image  */
-
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
-}
 
 .float-left {
     float: left;
